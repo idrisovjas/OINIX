@@ -131,10 +131,10 @@ nvidia
 xorg
 
 ## Desktop Environment
-gdm
-gnome
-gnome-tweaks
-gnome-shell-extensions
+#gdm
+#gnome
+#gnome-tweaks
+#gnome-shell-extensions
 ## Oinix Applications
 firefox
 ## AUR Package Manager
